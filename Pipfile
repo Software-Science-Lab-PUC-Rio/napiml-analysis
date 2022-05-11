@@ -11,6 +11,7 @@ scipy = "*"
 numpy = "*"
 seaborn = "*"
 pexpect = "*"
+ipynb = "*"
 
 [dev-packages]
 
