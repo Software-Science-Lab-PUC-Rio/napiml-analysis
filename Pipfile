@@ -12,6 +12,7 @@ numpy = "*"
 seaborn = "*"
 pexpect = "*"
 ipynb = "*"
+plot-likert = "*"
 
 [dev-packages]
 
