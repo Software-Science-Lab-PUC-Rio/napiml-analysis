@@ -1,20 +1,3 @@
-Q13. In the context of the ML-enabled system projects you participated in, which approach is typically used to deploy ML models?
-Q13. In the context of the ML-enabled system projects you participated in, which approach is typically used to deploy ML models?.1
-Q13. In the context of the ML-enabled system projects you participated in, which approach is typically used to deploy ML models?.2
-Q13. In the context of the ML-enabled system projects you participated in, which approach is typically used to deploy ML models?.3
-Q13. In the context of the ML-enabled system projects you participated in, which approach is typically used to deploy ML models?.4
-Q14. Do you/your organization follow the practice and principles of ML-Ops in ML-enabled system projects? For instance, do you have an automated pipeline to retrain and deploy your ML models?
-Q14. Do you/your organization follow the practice and principles of ML-Ops in ML-enabled system projects? For instance, do you have an automated pipeline to retrain and deploy your ML models?.1
-Q14. Do you/your organization follow the practice and principles of ML-Ops in ML-enabled system projects? For instance, do you have an automated pipeline to retrain and deploy your ML models?.2
-Q15. Based on your experience, what percentage of the ML-enabled system projects that get deployed into production have their ML models actually being monitored?
-Q16. Which of the following ML model aspects are monitored for the deployed ML-enabled system projects you have worked on?
-Q16. Which of the following ML model aspects are monitored for the deployed ML-enabled system projects you have worked on?.1
-Q16. Which of the following ML model aspects are monitored for the deployed ML-enabled system projects you have worked on?.2
-Q16. Which of the following ML model aspects are monitored for the deployed ML-enabled system projects you have worked on?.3
-Q16. Which of the following ML model aspects are monitored for the deployed ML-enabled system projects you have worked on?.4
-Q16. Which of the following ML model aspects are monitored for the deployed ML-enabled system projects you have worked on?.5
-Q17. Do you use Automated Machine Learning (AutoML) tools (e.g., AutoWEKA, Auto-sklearn, Auto-PyTorch), in your ML-enabled system projects?
-Q17. Do you use Automated Machine Learning (AutoML) tools (e.g., AutoWEKA, Auto-sklearn, Auto-PyTorch), in your ML-enabled system projects?.1
 In case you would like to be notified about the results, please fill in your email address.
 Unnamed: 206
 Unnamed: 208
