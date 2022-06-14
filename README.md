@@ -3,6 +3,12 @@ Este repositório visa estabelecer um ambiente de desenvolvimento para visualiza
 
 Inicialmente, as questões D1 a D15 e Q1 a Q7 serão exploradas em notebook do Jupyter. 
 
+## Apresentação
+
+Os resultados desse repositório, estão disponíveis em
+
+https://docs.google.com/presentation/d/1J7Dg5ssPlTUeMoT5L94-E63IF3u5SEov4Ps7c1wP9Fo/edit?usp=sharing
+
 ## Como Executar
 
 O projeto está contido em um ambiente virtual do Python usando pipenv, então para executar basta:
