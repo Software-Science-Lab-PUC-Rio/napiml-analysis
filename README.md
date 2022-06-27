@@ -1,26 +1,25 @@
-# Naming the Pain in Machine Learning - Análises Visuais
-Este repositório visa estabelecer um ambiente de desenvolvimento para visualizações gráficas das respostas apresentadas no survey disponível em https://ww2.unipark.de/uc/seml/. 
+# Naming the Pain in Machine Learning - Visual Analyses
+This repository aims at establishing an environment for generating graphical visualizations of the responses provided as part of the Machine Learning in Practice 2022 survey, available at https://ww2.unipark.de/uc/seml/. 
 
-Inicialmente, as questões D1 a D15 e Q1 a Q7 serão exploradas em notebook do Jupyter. 
+Initially, questions D1 to D15 and Q1 to Q17 are explored using Jupyter Notebooks. 
 
-## Apresentação
+## Presentation
 
-Os resultados desse repositório, estão disponíveis em
+The partial results, are available in presentation format at
+https://docs.google.com/presentation/d/1Zg4EJQ8EYiCTetFqZbHb8bgPUM8DXwif5LntebSKd-c/edit?usp=sharing
 
-https://docs.google.com/presentation/d/1J7Dg5ssPlTUeMoT5L94-E63IF3u5SEov4Ps7c1wP9Fo/edit?usp=sharing
+## How to Execute
 
-## Como Executar
+The project is contained in a Python virtual environment using pipenv, all you have to do to execute it follows:
 
-O projeto está contido em um ambiente virtual do Python usando pipenv, então para executar basta:
+1. pip install --user pipenv (install pipenv on your machine)
+2. pipenv install (or python -m pipenv install) (in a command line terminal, in the same folder where the project was cloned) 
+3. pipenv shell (or python -m pipenv shell) (initializes the terminal with the already installed dependencies)
+4. jupyter notebook (opens Jupyter Notebook in the folder of the project, including all the individual notebook files)
 
-- pip install --user pipenv (instalar na sua máquina)
-- pipenv install (em um terminal na mesma pasta que este projeto for clonado)
-- pipenv shell (inicializa o terminal com as dependências já instaladas)
-- jupyter notebook (abre um servidor na pasta deste projeto com todos os arquivos criados, incluindo os jupyter notebooks)
+## New Packages
 
-## Novas Bibiliotecas
+To install or uninstall new packages and dependencies:
 
-Para instalar ou desinstalar novas bibliotecas e dependências, é necessário instalar com o pipenv. Ou seja,
-
-- pipenv install pandas (pode ser qualquer biblioteca presente no pip)
-- pipenv uninstall pandas (pode ser qualquer biblioteca presente no pip)
+- pipenv install pandas (could be any package included in pip)
+- pipenv uninstall pandas
