@@ -1,11 +1,11 @@
-# Naming the Pain in Machine Learning - Visual Analyses
-This repository aims at establishing an environment for generating graphical visualizations of the responses provided as part of the Machine Learning in Practice 2022 survey, available at https://ww2.unipark.de/uc/seml/. 
+# Naming the Pain in Machine Learning
+This repository aims at establishing an environment for generating graphical visualizations of the responses provided as part of the Machine Learning in Practice 2022 survey, that was available at https://ww2.unipark.de/uc/seml/. 
 
-Initially, questions D1 to D15 and Q1 to Q17 are explored using Jupyter Notebooks. 
+Questions D1 to D15 and Q1 to Q17 are explored using Jupyter Notebooks. 
 
 ## Presentation
 
-The partial results, are available in presentation format at
+The results, are available in presentation format at
 https://docs.google.com/presentation/d/1Zg4EJQ8EYiCTetFqZbHb8bgPUM8DXwif5LntebSKd-c/edit?usp=sharing
 
 ## How to Execute
