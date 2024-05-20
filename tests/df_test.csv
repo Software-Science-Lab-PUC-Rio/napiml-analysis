@@ -1,0 +1,5 @@
+Coluna Descartável 1;Coluna Descartável 2;Coluna A;Coluna B;Coluna Descartável 3;Coluna C
+Esta coluna representa uma coluna passível de ser excluída;Esta coluna representa uma coluna passível de ser excluída;Esta é a coluna A;Esta é a coluna B;Esta coluna representa uma coluna passível de ser excluída;Esta é a coluna c
+column_discard_1;column_discard_2;column_a;column_b;column_discard_3;column_c
+31;no tester;1;Teste 1;tmp;100
+34;no tester;2;Teste 2;tmp;101
